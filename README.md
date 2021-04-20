@@ -43,9 +43,13 @@
 
 - bicycle_type : 자전거 타입(1 : 일반,2 : QR,3 : 새싹)  
 
-- rental_dt : 대여일시 (rental date and time)  
+- rental_day : 대여 날짜
 
-- return_dt : 반납일시 (return date and time)  
+- rental_time : 대여 시간  
+
+- return_day : 반납 날짜
+
+- return_time : 반납 시간
 
 - station_num : 대여소 번호
 
